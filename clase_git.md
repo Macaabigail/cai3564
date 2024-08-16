@@ -6,7 +6,7 @@
 
 
 
-- Git es un sistema de control de versiones (VCS) que te permite llevar un registro de los cambios en tus archivos a lo largo del tiempo. Es como tener una máquina del tiempo para tu código, ¡puedes viajar al pasado y restaurar versiones anteriores si es necesario! 🕰️
+- Git es un sistema de control de versiones (VCS) que te permite llevar un registro de los cambios en tus archivos a lo largo del tiempo. Es como tener una máquina del tiempo para tu código, ¡puedes viajar al pasado y restaurar versiones anteriores si es necesario! 🕰️ mmmmmm
 
 ### Los 3 Estados de Git: ¡El Flujo de Trabajo! 🌊
 1. **Working Directory (Directorio de Trabajo):** Es donde creas y modificas tus archivos. Es como el borrador de tu novela, donde puedes experimentar y hacer cambios libremente.
